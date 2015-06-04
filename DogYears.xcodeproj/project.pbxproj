@@ -13,6 +13,8 @@
 		11EAE8151B205DD100A7B589 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 11EAE8141B205DD100A7B589 /* Images.xcassets */; };
 		11EAE8181B205DD100A7B589 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 11EAE8161B205DD100A7B589 /* LaunchScreen.xib */; };
 		11EAE8241B205DD100A7B589 /* DogYearsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11EAE8231B205DD100A7B589 /* DogYearsTests.swift */; };
+		11EAE82E1B2062A800A7B589 /* catdog.png in Resources */ = {isa = PBXBuildFile; fileRef = 11EAE82D1B2062A800A7B589 /* catdog.png */; };
+		11EAE8301B20649600A7B589 /* catdogtitle.png in Resources */ = {isa = PBXBuildFile; fileRef = 11EAE82F1B20649600A7B589 /* catdogtitle.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +38,8 @@
 		11EAE81D1B205DD100A7B589 /* DogYearsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DogYearsTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		11EAE8221B205DD100A7B589 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		11EAE8231B205DD100A7B589 /* DogYearsTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DogYearsTests.swift; sourceTree = "<group>"; };
+		11EAE82D1B2062A800A7B589 /* catdog.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = catdog.png; sourceTree = "<group>"; };
+		11EAE82F1B20649600A7B589 /* catdogtitle.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = catdogtitle.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +94,8 @@
 		11EAE80B1B205DD100A7B589 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				11EAE82F1B20649600A7B589 /* catdogtitle.png */,
+				11EAE82D1B2062A800A7B589 /* catdog.png */,
 				11EAE80C1B205DD100A7B589 /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -195,6 +201,8 @@
 				11EAE8131B205DD100A7B589 /* Main.storyboard in Resources */,
 				11EAE8181B205DD100A7B589 /* LaunchScreen.xib in Resources */,
 				11EAE8151B205DD100A7B589 /* Images.xcassets in Resources */,
+				11EAE82E1B2062A800A7B589 /* catdog.png in Resources */,
+				11EAE8301B20649600A7B589 /* catdogtitle.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
